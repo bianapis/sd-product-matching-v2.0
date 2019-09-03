@@ -1,0 +1,30 @@
+{
+  "productCustomerCombinationAnalysisInstanceRecord" : {
+    "customerReferenceDataDirectoryEntryInstanceRecord" : {},
+    "customerProductServiceUtilization" : "customerProductServiceUtilization",
+    "customerBehaviorAnalysisInstanceReference" : "764525",
+    "productMatchingAssessmentResult" : "productMatchingAssessmentResult",
+    "customerEligibilityAssessmentInstanceRecord" : {},
+    "customerBehaviorAnalysisInstanceRecord" : {},
+    "customerReferenceDataDirectoryEntryInstanceReference" : "759337",
+    "productServiceProperties" : "productServiceProperties",
+    "customerEligibilityAssessmentInstanceReference" : "755910",
+    "productServiceType" : "productServiceType",
+    "matchingContextIndicator" : "matchingContextIndicator",
+    "bankProductWeightingsPriorities" : "bankProductWeightingsPriorities",
+    "customerReference" : "738890"
+  },
+  "productCustomerCombinationAnalysisInstanceAnalysis" : {
+    "productCustomerCombinationAnalysisInstanceAnalysisReport" : {},
+    "productCustomerCombinationAnalysisInstanceAnalysisData" : "productCustomerCombinationAnalysisInstanceAnalysisData",
+    "productCustomerCombinationAnalysisInstanceAnalysisReportType" : "productCustomerCombinationAnalysisInstanceAnalysisReportType"
+  },
+  "productCustomerCombinationAnalysisRetrieveActionTaskRecord" : {},
+  "productCustomerCombinationAnalysisRetrieveActionResponse" : "productCustomerCombinationAnalysisRetrieveActionResponse",
+  "productCustomerCombinationAnalysisRetrieveActionTaskReference" : "PCCARATR796398",
+  "productCustomerCombinationAnalysisInstanceReportRecord" : {
+    "productCustomerCombinationAnalysisInstanceReportData" : "productCustomerCombinationAnalysisInstanceReportData",
+    "productCustomerCombinationAnalysisInstanceReportType" : "productCustomerCombinationAnalysisInstanceReportType",
+    "productCustomerCombinationAnalysisInstanceReport" : {}
+  }
+}

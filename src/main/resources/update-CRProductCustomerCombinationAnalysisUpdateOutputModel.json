@@ -1,0 +1,20 @@
+{
+  "productCustomerCombinationAnalysisInstanceRecord" : {
+    "customerReferenceDataDirectoryEntryInstanceRecord" : {},
+    "customerProductServiceUtilization" : "customerProductServiceUtilization",
+    "customerBehaviorAnalysisInstanceReference" : "763636",
+    "productMatchingAssessmentResult" : "productMatchingAssessmentResult",
+    "customerEligibilityAssessmentInstanceRecord" : {},
+    "customerBehaviorAnalysisInstanceRecord" : {},
+    "customerReferenceDataDirectoryEntryInstanceReference" : "749264",
+    "productServiceProperties" : "productServiceProperties",
+    "customerEligibilityAssessmentInstanceReference" : "703274",
+    "productServiceType" : "productServiceType",
+    "matchingContextIndicator" : "matchingContextIndicator",
+    "bankProductWeightingsPriorities" : "bankProductWeightingsPriorities",
+    "customerReference" : "708702"
+  },
+  "productCustomerCombinationAnalysisUpdateActionTaskReference" : "PCCAUATR750353",
+  "productCustomerCombinationAnalysisUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

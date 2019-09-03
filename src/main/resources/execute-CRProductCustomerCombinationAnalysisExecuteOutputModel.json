@@ -1,0 +1,9 @@
+{
+  "productCustomerCombinationAnalysisInstanceRecord" : {
+    "productMatchingAssessmentResult" : "productMatchingAssessmentResult"
+  },
+  "executeRecordReference" : "ERR714082",
+  "executeResponseRecord" : {},
+  "productCustomerCombinationAnalysisExecuteActionTaskRecord" : {},
+  "productCustomerCombinationAnalysisExecuteActionTaskReference" : "PCCAEATR775282"
+}

@@ -1,0 +1,9 @@
+{
+  "productCustomerCombinationAnalysisEvaluateActionReference" : "PCCAEAR716698",
+  "productCustomerCombinationAnalysisInstanceRecord" : {
+    "productMatchingAssessmentResult" : "productMatchingAssessmentResult"
+  },
+  "productCustomerCombinationAnalysisEvaluateActionRecord" : {},
+  "productCustomerCombinationAnalysisInstanceReference" : "PCCAIR783253",
+  "productCustomerCombinationAnalysisInstanceStatus" : "productCustomerCombinationAnalysisInstanceStatus"
+}
